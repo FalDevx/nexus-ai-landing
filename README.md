@@ -1,5 +1,3 @@
-Update README.md in the root folder with this content:
-
 # Nexus AI — AI Dashboard Template
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)
