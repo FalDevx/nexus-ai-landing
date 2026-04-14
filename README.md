@@ -10,7 +10,7 @@ Next.js 16 and TypeScript. Dark luxury design with
 light mode included.
 
 ## Live Demo
-> Coming soon
+> nexus-ai-landing-lilac.vercel.app
 
 ## Pages Included
 - `/` — Landing page (Hero, Features, Pricing, FAQ)
